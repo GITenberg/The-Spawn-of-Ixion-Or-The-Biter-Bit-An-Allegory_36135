@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '38101'
     url: http://www.gutenberg.org/2009/agents/38101
 description: '"A fierce political satire on Park and Gliddon."--Sabin.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36135#The-Spawn-of-Ixion-Or-The-Biter-Bit-An-Allegory
 gutenberg_issued: '2011-05-18'
 gutenberg_type: Text
 identifiers:
